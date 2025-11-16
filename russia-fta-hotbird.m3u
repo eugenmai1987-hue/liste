@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name=“Moscow 24” group-title=“Russia FTA”, Moscow 24
+https://m24stream-lh.akamaihd.net/i/m24_1@198199/master.m3u8
+
+#EXTINF:-1 tvg-name=“1HD Music” group-title=“Music”, 1HD Music
+https://c2n2c3q6.ssl.hwcdn.net/1hd/1hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name=“Europa Plus TV” group-title=“Music”, Europa Plus TV
+https://europaplustv-live.cdnvideo.ru/eptv/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name=“Bridge TV” group-title=“Music”, Bridge TV
+https://bridgetv-lh.akamaihd.net/i/bridge_1@775788/master.m3u8
+
+#EXTINF:-1 tvg-name=“Bridge TV Hits” group-title=“Music”, Bridge TV Hits
+https://bridgetv-hits-ru.1tvbrane.ru/hls/hits_720p.m3u8
+
+#EXTINF:-1 tvg-name=“Russian Music Box” group-title=“Music”, Russian
+Music Box https://strm.yandex.ru/kal/rmusicbox/rmusicbox0_169_720p.m3u8
+
+#EXTINF:-1 tvg-name=“Music Box Russia” group-title=“Music”, Music Box
+Russia https://strm.yandex.ru/kal/muztv/muztv0_169_720p.m3u8
+
+#EXTINF:-1 tvg-name=“RT Documentary” group-title=“Documentary”, RT
+Documentary
+https://rt-doc-secure-live.hls.adaptive.level3.net/rt-doc/rt-doc/playlist.m3u8
+
+#EXTINF:-1 tvg-name=“TBN Russia” group-title=“Religious”, TBN Russia
+https://tbnru-hls.cdnvideo.ru/tbnru/ru/playlist.m3u8
+
+#EXTINF:-1 tvg-name=“CNL Russia” group-title=“Religious”, CNL Russia
+https://cnl.rtcomm.tv/cnl/index.m3u8
+
+#EXTINF:-1 tvg-name=“TV Rus” group-title=“Russian”, TV Rus
+http://rus.tv-online.cc/hls/tvrus_720.m3u8
+
+#EXTINF:-1 tvg-name=“8 Kanal International” group-title=“Russian”, 8
+Kanal International https://sc.id-tv.kz/8KanalInt_36_720p.m3u8
+
+#EXTINF:-1 tvg-name=“Fashion TV Russia” group-title=“Lifestyle”, Fashion
+TV Russia
+https://fash1043.cloudycdn.services/slive/definst/ftv_ftv_ru_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name=“Multimania” group-title=“Kids”, Multimania
+https://livetv.mylifeisgood.buzz:8081/live/JS896W8G9/JE98H97G3485/4.m3u8
